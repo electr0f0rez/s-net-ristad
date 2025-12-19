@@ -1,4 +1,4 @@
-# s-net-ristad
+# sõnetööristad
 ```
 namespace StringTools
 {
